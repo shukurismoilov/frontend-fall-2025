@@ -1,0 +1,13 @@
+.subheading {
+  color: rgba(0, 0, 0, 0.6);
+}
+
+.list-item {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 6px;
+}
+
+#save-btn {
+  display: none;
+}
